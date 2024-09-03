@@ -75,8 +75,6 @@ sections:
         label: HTML
       - type: Label
         label: Microsoft 365 admin console
-      - type: Label
-        label: Swift
   - type: DividerSection
     styles:
       self:
