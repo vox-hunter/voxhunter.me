@@ -5,9 +5,8 @@ colors: colors-a
 date: '2024-08-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  This is a simple weather application built using Streamlit that fetches and
+  displays weather data based on the user's location or a manually entered city.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
