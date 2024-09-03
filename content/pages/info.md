@@ -74,7 +74,7 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: Microsoft 365 admin
+        label: Microsoft 365 admin console
       - type: Label
         label: C++
       - type: Label
