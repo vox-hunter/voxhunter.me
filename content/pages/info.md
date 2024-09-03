@@ -13,11 +13,12 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## I am a Python developer with a strong foundational knowledge in
+      programming, having completed the CS50P course from Harvard. As I continue
+      to expand my skills, I am actively exploring new technologies and refining
+      my expertise in Python.
+
     media:
       type: ImageBlock
       url: /images/about.jpg
