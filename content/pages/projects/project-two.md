@@ -1,18 +1,19 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: AI Tweet Generator
 colors: colors-a
-date: '2021-12-20'
+date: '2024-08-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  This is a Python-based application that generates tweets based on user input.
+  It uses the Streamlit library to create a web-based user interface.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Screenshot 2024-08-26 195306.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Screenshot 2024-08-26 195306.png
   altText: Project image
 ---
 

@@ -1,18 +1,22 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Currency Converter App
 colors: colors-a
-date: '2021-10-15'
+date: '2024-08-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  This Currency Converter application allows users to convert amounts between
+  various global currencies. It utilizes the ExchangeRate-API for fetching
+  real-time conversion rates. The user interface is built with Python and
+  Tkinter, providing a straightforward and intuitive user experience with a
+  sleek dark theme.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Recording 2024-04-29 194609.gif
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Recording 2024-04-29 194609.gif
   altText: Project image
 ---
 

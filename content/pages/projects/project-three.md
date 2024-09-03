@@ -1,14 +1,15 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Weather Web App
 colors: colors-a
-date: '2022-01-22'
+date: '2024-08-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  This is a simple weather application built using Streamlit that fetches and
+  displays weather data based on the user's location or a manually entered city.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Screenshot 2024-09-03 183839.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
