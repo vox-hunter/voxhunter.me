@@ -21,7 +21,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/post-4.png
+      url: /images/rubaitul-azad-ZIPFteu-R8k-unsplash.jpg
       altText: Hero image
     styles:
       self:
