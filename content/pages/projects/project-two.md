@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: AI Tweet Generator
 colors: colors-a
-date: '2024-03-20'
+date: '2024-07-20'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
