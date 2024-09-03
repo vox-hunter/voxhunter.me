@@ -72,7 +72,7 @@ sections:
       - type: Label
         label: Gsuite
       - type: Label
-        label: Netlify
+        label: HTML
       - type: Label
         label: Pancakes
       - type: Label
