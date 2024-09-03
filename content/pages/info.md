@@ -68,7 +68,7 @@ sections:
       - type: Label
         label: Django
       - type: Label
-        label: Microsoft Office
+        label: Microsoft 365
       - type: Label
         label: Gsuite
       - type: Label
