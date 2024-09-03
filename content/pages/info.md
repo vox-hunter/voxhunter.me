@@ -70,7 +70,7 @@ sections:
       - type: Label
         label: Microsoft Office
       - type: Label
-        label: Next.js
+        label: Gsuite
       - type: Label
         label: Netlify
       - type: Label
