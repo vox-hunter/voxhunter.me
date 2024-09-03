@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Weather Web App
 colors: colors-a
-date: '2024-08-22'
+date: '2024-08-15'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
