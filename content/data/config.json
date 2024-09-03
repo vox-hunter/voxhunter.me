@@ -52,12 +52,6 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "GitHub",
                 "url": "https://github.com/vox-hunter",
                 "altText": "github",
