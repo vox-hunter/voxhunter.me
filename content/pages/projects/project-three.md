@@ -9,7 +9,7 @@ description: >-
   displays weather data based on the user's location or a manually entered city.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Screenshot 2024-09-03 183839.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
