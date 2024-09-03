@@ -65,7 +65,8 @@
                 "type": "Link",
                 "label": "GitHub",
                 "url": "https://github.com/vox-hunter",
-                "altText": "github"
+                "altText": "github",
+                "showIcon": true
             },
             {
                 "type": "Link",
