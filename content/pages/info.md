@@ -74,7 +74,7 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: Pancakes
+        label: Microsoft 365 admin
       - type: Label
         label: C++
       - type: Label
