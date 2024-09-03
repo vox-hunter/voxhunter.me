@@ -92,7 +92,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      <vox@voxhunter.me>
   - type: DividerSection
     styles:
       self:
