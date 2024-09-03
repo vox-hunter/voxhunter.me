@@ -69,7 +69,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Contact",
                 "altText": "",
                 "url": "mailto:vox@voxhunter.me",
                 "showIcon": false,
