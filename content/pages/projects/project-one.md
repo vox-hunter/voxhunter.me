@@ -16,7 +16,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Recording 2024-04-29 194609.gif
   altText: Project image
 ---
 
